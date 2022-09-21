@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LIASY032
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning at University of South Australia
+- 🌱 I’m currently seeking a developer job
 
 
 
